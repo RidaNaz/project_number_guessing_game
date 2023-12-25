@@ -1,0 +1,21 @@
+{
+  "name": "number-guessing-game_rida",
+  "version": "1.0.0",
+  "description": "this is the number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : "./main.js",
+  "keywords": [],
+  "author": "rida_naz",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/inquirer": "^9.0.7",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {}
+}
