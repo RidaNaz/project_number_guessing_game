@@ -1,6 +1,6 @@
 {
   "name": "number-guessing-game_rida",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is the number guessing game",
   "main": "index.js",
   "type": "module",
